@@ -4,7 +4,7 @@ Mechanism design, as elegantly put by Tim Roughgarden, a researcher at A16Z and 
 
 ## Academic Research
 - [Foundations of Cryptoeconomic Systems - Voshmgir, Zargham](./Foundations+of+Cryptoeconomic+Systems.pdf) - One of the first formal academic papers on cryptoeconimcs systems and the interconnected systems that are involved within it.
-- [On Modeling Blockchain-enabled Economic Networks as Stochastic Dynamical System](./s41109-020-0254-9.pdf)
+- [On Modeling Blockchain-enabled Economic Networks as Stochastic Dynamical System](./s41109-020-0254-9.pdf) - Detailed analysis on how systems engineering principles can be introduced to model outputs for blochchain-based economic networks.
 
 ## Literature
 - [Market Design: Auction and Matching by Guillaume Haeringer](https://mitpress.mit.edu/9780262037549/market-design/) - University level textbook that goes over the basis of auctions, a primitive in designing markets.
