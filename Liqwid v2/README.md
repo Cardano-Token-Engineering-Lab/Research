@@ -14,3 +14,13 @@ As specific documents are referenced in the research of Liqwid Finance they will
 ## v2 Specific Content and Updates:
 - [Liqwid v2 Overview - Substack](https://liqwidfinance.substack.com/p/liqwid-v2-overview)
 - [Liqwid v2 Tweet Update](https://x.com/liqwidfinance/status/1757803795159896589) - Alluding to similarities w/ Aave v3
+
+## Liqwid Deep Dive Research Topics
+- Review token emissions and distribution (along w/ all the changes in emissions since TGE)
+- Detail founding entities holdings and vesting schedules (if publicly avaiable)
+- Governance and DAO structure
+- Review and highlight changes from v1 to v2 that will be launched soon
+- Overview the 2 oracle failures that have impacted Liqwid (and the oracle issues in general in Cardano DeFi)
+- Analysis of the new mechanisms introduced in v2
+- Overview of token price along with protocol changes that have been implemented by the DAO since launch
+- Feedback and Recommendations

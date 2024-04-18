@@ -15,4 +15,13 @@ As specific documents are referenced in the research of the Indigo protocol they
 - [Indigo v2 Tweet](https://x.com/Indigo_protocol/status/1770938594015781164)
 - [Indigo Protocol v2: Dual Peg Mechanism](https://indigoprotocol1.medium.com/indigo-protocol-v2-dual-peg-mechanisms-7965ff8a38e2)
 - [Indigo Protocol v2 Fee Restructure](https://www.bulbapp.io/p/af9b4931-1d5f-4d1d-ba56-4b0ff09d00a9/indigo-protocol-v2-fee-restructure)
-- [INdigo v2 Proposal](https://x.com/Indigo_protocol/status/1765435352745914427)
+- [Indigo v2 Proposal](https://x.com/Indigo_protocol/status/1765435352745914427)
+
+## Indigo Deep Dive Research Topics
+- Describe Emissions and Distrubtion of the token to date (along w/ any changes that may have happened since TGE)
+- Detail founding entities holdings and vesting schedules (if publicly avaiable)
+- Governance and DAO structure
+- Highlighting key differences between v1 and v2
+- Analysis and overview of the newly implement mechanisms in v2 around peg mechanisms
+- Overview of token price along with protocol changes that have been implemented by the DAO since launch
+- Feedback and Recommendations
