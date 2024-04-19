@@ -12,6 +12,7 @@ As specific documents are referenced in the research of the Indigo protocol they
 
 ## Indigo v2 Specific Content/Updates:
 ![Indigo v2 Info](./indigov2infographic.jpg)
+- [Indigio v2 Whitepaper](./Indigo%20Paper%20v2%20-%20draft.pdf)
 - [Indigo v2 Tweet](https://x.com/Indigo_protocol/status/1770938594015781164)
 - [Indigo Protocol v2: Dual Peg Mechanism](https://indigoprotocol1.medium.com/indigo-protocol-v2-dual-peg-mechanisms-7965ff8a38e2)
 - [Indigo Protocol v2 Fee Restructure](https://www.bulbapp.io/p/af9b4931-1d5f-4d1d-ba56-4b0ff09d00a9/indigo-protocol-v2-fee-restructure)
