@@ -10,6 +10,9 @@ As specific documents are referenced in the research of Liqwid Finance they will
 - [Liqwid Governance Forum](https://gov.liqwid.finance/)
 - [Liqwid Official X Account](https://twitter.com/Liqwid_protocol)
 - [Liqwid Discord Server](https://t.co/Ca4yhZd3cY)
+- [Liqwid Founding Entity Info - Pitchbook](https://pitchbook.com/profiles/company/523101-16#overview)
+- [Liqwid Labs - Crunchbase](https://www.crunchbase.com/organization/liqwid-labs)
+- [Liqwid Announcement of Team wallets/allocations via Twitter/X](https://twitter.com/liqwidfinance/status/1651315687648796680)
 
 ## v2 Specific Content and Updates:
 - [Liqwid v2 Overview - Substack](https://liqwidfinance.substack.com/p/liqwid-v2-overview)
